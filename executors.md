@@ -1,9 +1,3 @@
-Great catch! Let’s make your **executors.md** file even better:
-
-- **Swift** and **Xeno** will be at the top, in a special “Most Recommended” section.
-- Each executor will have a bold, clear heading and a colored callout for visibility.
-- All executors (including Swift, Xeno, JJSploit, Krnl, etc.) will be included.
-- Each section will have a short description, official link, and usage tips.
 
 ---
 
