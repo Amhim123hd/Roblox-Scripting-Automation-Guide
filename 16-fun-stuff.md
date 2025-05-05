@@ -1,27 +1,32 @@
-# 🎉 16. Fun Stuff: Advanced & Creative Roblox Scripting 🎮
+Here’s your **Fun Stuff** guide with a GitHub-compatible Table of Contents and headings—**no emojis or special characters** in the anchors, so all links will work perfectly on GitHub and most markdown viewers!
 
-Welcome to the **fun and creative side** of Roblox scripting!  
+---
+
+# 16. Fun Stuff: Advanced and Creative Roblox Scripting
+
+Welcome to the fun and creative side of Roblox scripting!  
 This guide will show you how to make your own auto farms, custom GUIs, cool player powers, and more.  
 Each section is easy to follow and builds on what you’ve learned so far.
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
+
 1. [Auto Farm: Collect and Sell Automatically](#1-auto-farm-collect-and-sell-automatically)
 2. [Make a Simple GUI Button](#2-make-a-simple-gui-button)
-3. [Using a GUI Library (OrionLib Example)](#3-using-a-gui-library-orionlib-example)
-4. [Player Powers: Teleport, Speed, and Jump](#4-player-powers-teleport-speed-and-jump)
-5. [No-Clip: Walk Through Walls](#5-no-clip-walk-through-walls)
-6. [ESP: See Players or Items Through Walls](#6-esp-see-players-or-items-through-walls)
+3. [Using a GUI Library OrionLib Example](#3-using-a-gui-library-orionlib-example)
+4. [Player Powers Teleport Speed and Jump](#4-player-powers-teleport-speed-and-jump)
+5. [No-Clip Walk Through Walls](#5-no-clip-walk-through-walls)
+6. [ESP See Players or Items Through Walls](#6-esp-see-players-or-items-through-walls)
 7. [Custom Chat Commands](#7-custom-chat-commands)
-8. [Auto Buy, Auto Quest, and More](#8-auto-buy-auto-quest-and-more)
-9. [How to Find Remotes (SimpleSpy)](#9-how-to-find-remotes-simplespy)
-10. [Roblox Terms of Service & Getting Banned](#10-roblox-terms-of-service--getting-banned)
-11. [Keep Exploring!](#11-keep-exploring)
+8. [Auto Buy Auto Quest and More](#8-auto-buy-auto-quest-and-more)
+9. [How to Find Remotes SimpleSpy](#9-how-to-find-remotes-simplespy)
+10. [Roblox Terms of Service and Getting Banned](#10-roblox-terms-of-service-and-getting-banned)
+11. [Keep Exploring](#11-keep-exploring)
 
 ---
 
-## 1. 🚜 Auto Farm: Collect and Sell Automatically
+## 1. Auto Farm: Collect and Sell Automatically
 
 Auto farms help you collect coins, items, or points without doing anything!
 
@@ -38,12 +43,11 @@ while _G.autoFarm do
     wait(1)
 end
 ```
-
-> 💡 **Tip:** Replace the sell remote with the one from your game if you want to auto-sell!
+*Tip: Replace the sell remote with the one from your game if you want to auto-sell!*
 
 ---
 
-## 2. 🖱️ Make a Simple GUI Button
+## 2. Make a Simple GUI Button
 
 Add buttons to your screen that run scripts when clicked.
 
@@ -62,7 +66,7 @@ end)
 
 ---
 
-## 3. 🎨 Using a GUI Library (OrionLib Example)
+## 3. Using a GUI Library OrionLib Example
 
 Libraries like OrionLib make it easy to create beautiful UIs.
 
@@ -84,7 +88,7 @@ OrionLib:Init()
 
 ---
 
-## 4. 🦸 Player Powers: Teleport, Speed, and Jump
+## 4. Player Powers Teleport Speed and Jump
 
 Change how your character moves!
 
@@ -100,7 +104,7 @@ h.JumpPower = 200
 
 ---
 
-## 5. 🚶 No-Clip: Walk Through Walls
+## 5. No-Clip Walk Through Walls
 
 Walk through anything (for fun and learning)!
 
@@ -115,7 +119,7 @@ end)
 
 ---
 
-## 6. 👀 ESP: See Players or Items Through Walls
+## 6. ESP See Players or Items Through Walls
 
 Draw boxes around things you want to see!
 
@@ -129,12 +133,12 @@ for _, player in ipairs(game.Players:GetPlayers()) do
         box.AlwaysOnTop = true
         box.Parent = game.CoreGui
     end
-end)
+end
 ```
 
 ---
 
-## 7. 💬 Custom Chat Commands
+## 7. Custom Chat Commands
 
 Make your own chat commands!
 
@@ -148,7 +152,7 @@ end)
 
 ---
 
-## 8. 🔄 Auto Buy, Auto Quest, and More
+## 8. Auto Buy Auto Quest and More
 
 Automate anything you can find a remote for!
 
@@ -163,7 +167,7 @@ end
 
 ---
 
-## 9. 🔍 How to Find Remotes (SimpleSpy)
+## 9. How to Find Remotes SimpleSpy
 
 1. Get [SimpleSpy](https://github.com/exxtremestuffs/SimpleSpySource).
 2. Paste the script into your executor and run it.
@@ -172,7 +176,7 @@ end
 
 ---
 
-## 10. ⚠️ Roblox Terms of Service & Getting Banned
+## 10. Roblox Terms of Service and Getting Banned
 
 **Important!**  
 Roblox has rules. Here’s what can get you banned:
@@ -186,11 +190,16 @@ Roblox has rules. Here’s what can get you banned:
 - Learning and experimenting in private servers or with friends (with permission).
 - Using scripts that don’t harm others or break the game for everyone.
 
-> ❗ **Always use scripts responsibly and for learning or fun with friends!**
+**If you break the rules, you can get:**
+- Kicked from games
+- Temporarily banned
+- Permanently banned
+
+**Always use scripts responsibly and for learning or fun with friends!**
 
 ---
 
-## 11. 🌟 Keep Exploring!
+## 11. Keep Exploring
 
 - Try making your own mini-games in Roblox Studio.
 - Experiment with new scripts and see what you can automate.
@@ -200,3 +209,6 @@ Roblox has rules. Here’s what can get you banned:
 ---
 
 **Have fun, be creative, and always play fair!**
+
+---
+
