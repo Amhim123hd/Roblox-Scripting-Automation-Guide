@@ -129,7 +129,7 @@ for _, player in ipairs(game.Players:GetPlayers()) do
         box.AlwaysOnTop = true
         box.Parent = game.CoreGui
     end
-end
+end)
 ```
 
 ---
