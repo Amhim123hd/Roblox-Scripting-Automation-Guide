@@ -1,3 +1,8 @@
+Absolutely! Here’s how you can add **16. Fun Stuff: Advanced and Creative Roblox Scripting** to your main `README.md` so it stands out and is easy to find.  
+I’ll use a special highlight and a clear callout to make it pop for readers.
+
+---
+
 # Roblox Scripting & Automation Guide
 
 Welcome! This is a step-by-step guide for beginners who want to learn scripting and automation in Roblox.  
@@ -23,4 +28,17 @@ Each topic is in its own file for easy reading.
 
 ---
 
+---
+
+## 🚀 **16. Fun Stuff: Advanced and Creative Roblox Scripting** [**(Click Here!)**](16-fun-stuff.md)
+
+> **Ready for the coolest, most creative, and advanced scripting tricks?**  
+> Check out the [Fun Stuff guide](16-fun-stuff.md) for auto farms, custom GUIs, player powers, Infinite Yield, Dex Explorer, and more!  
+> **Perfect for when you want to go beyond the basics and have some real fun.**
+
+---
+
 **For educational purposes only. Always follow Roblox’s Terms of Service.**
+
+---
+
