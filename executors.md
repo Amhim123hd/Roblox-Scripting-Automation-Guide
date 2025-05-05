@@ -1,5 +1,9 @@
-Absolutely! Here’s a **comprehensive, all-in-one markdown file** for your GitHub repo, covering all the major Roblox executors (free, paid, and mobile) with official links, descriptions, and clear sections.  
-**You can use this as `executors.md` or any name you like.**
+Great catch! Let’s make your **executors.md** file even better:
+
+- **Swift** and **Xeno** will be at the top, in a special “Most Recommended” section.
+- Each executor will have a bold, clear heading and a colored callout for visibility.
+- All executors (including Swift, Xeno, JJSploit, Krnl, etc.) will be included.
+- Each section will have a short description, official link, and usage tips.
 
 ---
 
@@ -10,223 +14,215 @@ This guide will help you download, install, and use the most popular Roblox scri
 
 ---
 
-## Table of Contents
-
-- [Free Executors](#free-executors)
-  - [JJSploit](#jjsploit)
-  - [Krnl](#krnl)
-  - [Fluxus](#fluxus)
-  - [Oxygen U](#oxygen-u)
-  - [Script-Ware Free](#script-ware-free)
-  - [Solara](#solara)
-  - [Comet](#comet)
-  - [Delta](#delta)
-- [Paid Executors](#paid-executors)
-  - [Synapse X](#synapse-x)
-  - [Script-Ware](#script-ware)
-  - [Trigon](#trigon)
-  - [Vega X](#vega-x)
-  - [Electron](#electron)
-- [Mobile Executors](#mobile-executors)
-  - [Arceus X](#arceus-x)
-  - [Delta Mobile](#delta-mobile)
-  - [Fluxus Mobile](#fluxus-mobile)
-  - [Krnl (Android)](#krnl-android)
-  - [Hydrogen](#hydrogen)
-- [Other Notable Executors](#other-notable-executors)
-  - [Furk Ultra](#furk-ultra)
-  - [Valyse](#valyse)
-  - [Kiwi X](#kiwi-x)
-  - [Blackout](#blackout)
-- [General Safety Tips](#general-safety-tips)
+## ⭐️ Most Recommended Executors
 
 ---
 
-## Free Executors
+### 🟢 **Swift**
 
-### JJSploit
+> **Swift** is a modern, user-friendly, and highly compatible Roblox script executor.  
+> **Official site:** [https://getswift.gg/](https://getswift.gg/)
 
-- **Platform:** Windows
-- **Description:** Beginner-friendly, free, and easy to use.
-- **Official site:** [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
-
----
-
-### Krnl
-
-- **Platform:** Windows, Android
-- **Description:** One of the most stable and popular free executors.
-- **Official site:** [https://wearedevs.net/d/Krnl](https://wearedevs.net/d/Krnl)
+**How to Use:**
+1. Download from [getswift.gg](https://getswift.gg/).
+2. Install and run Swift.
+3. Open Roblox, join a game, and click **Attach** in Swift.
+4. Paste your script and click **Execute**.
 
 ---
 
-### Fluxus
+### 🔵 **Xeno**
 
-- **Platform:** Windows, Android, iOS
-- **Description:** Free, feature-rich, and supports a wide range of scripts.
-- **Official site:** [https://fluxteam.net/](https://fluxteam.net/)
+> **Xeno** is a powerful, stable, and easy-to-use executor with great script support.  
+> **Official site:** [https://www.xeno.now/download](https://www.xeno.now/download)
 
----
-
-### Oxygen U
-
-- **Platform:** Windows
-- **Description:** Free executor with a clean UI and good script support.
-- **Official site:** [https://oxygenhub.site/](https://oxygenhub.site/)
+**How to Use:**
+1. Download from [xeno.now/download](https://www.xeno.now/download).
+2. Install and run Xeno.
+3. Open Roblox, join a game, and click **Attach** in Xeno.
+4. Paste your script and click **Execute**.
 
 ---
 
-### Script-Ware Free
-
-- **Platform:** Windows, Mac
-- **Description:** Free version available, with paid upgrades.
-- **Official site:** [https://script-ware.com/](https://script-ware.com/)
+## 🆓 Free Executors
 
 ---
 
-### Solara
+### 🟣 **JJSploit**
 
-- **Platform:** Windows
-- **Description:** Modern, external executor, free to use.
-- **Official site:** [https://getsolara.dev/](https://getsolara.dev/)
+> **JJSploit** is beginner-friendly, free, and easy to use.  
+> **Official site:** [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
 
----
-
-### Comet
-
-- **Platform:** Windows
-- **Description:** Free, stable, and frequently updated.
-- **Official site:** [https://comet-executor.com/](https://comet-executor.com/)
+**How to Use:**
+- Download, install, and run JJSploit.
+- Attach to Roblox, paste your script, and execute.
 
 ---
 
-### Delta
+### 🟤 **Krnl**
 
-- **Platform:** Windows, Android
-- **Description:** Free, supports a wide range of scripts, mobile support.
-- **Official site:** [https://delta-executor.com/](https://delta-executor.com/)
+> **Krnl** is one of the most stable and popular free executors, now also on Android.  
+> **Official site:** [https://wearedevs.net/d/Krnl](https://wearedevs.net/d/Krnl)
 
----
-
-## Paid Executors
-
-### Synapse X
-
-- **Platform:** Windows
-- **Description:** The most popular and stable paid executor, known for script compatibility and updates.
-- **Official site:** [https://x.synapse.to/](https://x.synapse.to/)
+**How to Use:**
+- Download, install, and run Krnl.
+- Attach to Roblox, paste your script, and execute.
 
 ---
 
-### Script-Ware
+### 🟠 **Fluxus**
 
-- **Platform:** Windows, Mac
-- **Description:** Paid version offers more features and better support.
-- **Official site:** [https://script-ware.com/](https://script-ware.com/)
-
----
-
-### Trigon
-
-- **Platform:** Windows
-- **Description:** Paid, stable, and supports many scripts.
-- **Official site:** [https://trigon-evo.com/](https://trigon-evo.com/)
+> **Fluxus** is free, feature-rich, and supports a wide range of scripts (Windows, Android, iOS).  
+> **Official site:** [https://fluxteam.net/](https://fluxteam.net/)
 
 ---
 
-### Vega X
+### 🟡 **Oxygen U**
 
-- **Platform:** Windows
-- **Description:** Paid, known for speed and script support.
-- **Official site:** [https://vegax.gg/](https://vegax.gg/)
-
----
-
-### Electron
-
-- **Platform:** Windows
-- **Description:** Paid, fast, and frequently updated.
-- **Official site:** [https://electronexecutor.com/](https://electronexecutor.com/)
+> **Oxygen U** is a free executor with a clean UI and good script support.  
+> **Official site:** [https://oxygenhub.site/](https://oxygenhub.site/)
 
 ---
 
-## Mobile Executors
+### 🟢 **Script-Ware Free**
 
-### Arceus X
-
-- **Platform:** Android
-- **Description:** The most popular mobile executor for Android.
-- **Official site:** [https://arceusx.net/](https://arceusx.net/)
+> **Script-Ware Free** offers a free version with paid upgrades (Windows, Mac).  
+> **Official site:** [https://script-ware.com/](https://script-ware.com/)
 
 ---
 
-### Delta Mobile
+### 🟤 **Solara**
 
-- **Platform:** Android
-- **Description:** Mobile version of Delta, supports many scripts.
-- **Official site:** [https://delta-executor.com/](https://delta-executor.com/)
-
----
-
-### Fluxus Mobile
-
-- **Platform:** Android, iOS
-- **Description:** Mobile version of Fluxus.
-- **Official site:** [https://fluxteam.net/](https://fluxteam.net/)
+> **Solara** is a modern, external executor, free to use.  
+> **Official site:** [https://getsolara.dev/](https://getsolara.dev/)
 
 ---
 
-### Krnl (Android)
+### 🟣 **Comet**
 
-- **Platform:** Android
-- **Description:** Mobile version of Krnl.
-- **Official site:** [https://wearedevs.net/d/Krnl](https://wearedevs.net/d/Krnl)
-
----
-
-### Hydrogen
-
-- **Platform:** Android
-- **Description:** Popular mobile executor.
-- **Official site:** [https://hydrogenexecutor.com/](https://hydrogenexecutor.com/)
+> **Comet** is free, stable, and frequently updated.  
+> **Official site:** [https://comet-executor.com/](https://comet-executor.com/)
 
 ---
 
-## Other Notable Executors
+### 🟠 **Delta**
 
-### Furk Ultra
-
-- **Platform:** Windows
-- **Description:** Free, stable, and frequently updated.
-- **Official site:** [https://furk-ultra.com/](https://furk-ultra.com/)
+> **Delta** is free, supports a wide range of scripts, and has mobile support.  
+> **Official site:** [https://delta-executor.com/](https://delta-executor.com/)
 
 ---
 
-### Valyse
-
-- **Platform:** Windows
-- **Description:** Free, stable, and frequently updated.
-- **Official site:** [https://valyse.com/](https://valyse.com/)
+## 💎 Paid Executors
 
 ---
 
-### Kiwi X
+### 🔴 **Synapse X**
 
-- **Platform:** Windows
-- **Description:** Free, stable, and frequently updated.
-- **Official site:** [https://kiwixexecutor.com/](https://kiwixexecutor.com/)
-
----
-
-### Blackout
-
-- **Platform:** Windows
-- **Description:** Free, stable, and frequently updated.
-- **Official site:** [https://blackoutexecutor.com/](https://blackoutexecutor.com/)
+> **Synapse X** is the most popular and stable paid executor, known for script compatibility and updates.  
+> **Official site:** [https://x.synapse.to/](https://x.synapse.to/)
 
 ---
 
-## General Safety Tips
+### 🟡 **Script-Ware (Paid)**
+
+> **Script-Ware (Paid)** offers more features and better support.  
+> **Official site:** [https://script-ware.com/](https://script-ware.com/)
+
+---
+
+### 🟠 **Trigon**
+
+> **Trigon** is paid, stable, and supports many scripts.  
+> **Official site:** [https://trigon-evo.com/](https://trigon-evo.com/)
+
+---
+
+### 🟢 **Vega X**
+
+> **Vega X** is paid, known for speed and script support.  
+> **Official site:** [https://vegax.gg/](https://vegax.gg/)
+
+---
+
+### 🔵 **Electron**
+
+> **Electron** is paid, fast, and frequently updated.  
+> **Official site:** [https://electronexecutor.com/](https://electronexecutor.com/)
+
+---
+
+## 📱 Mobile Executors
+
+---
+
+### 🟢 **Arceus X**
+
+> **Arceus X** is the most popular mobile executor for Android.  
+> **Official site:** [https://arceusx.net/](https://arceusx.net/)
+
+---
+
+### 🟠 **Delta Mobile**
+
+> **Delta Mobile** is the mobile version of Delta, supports many scripts.  
+> **Official site:** [https://delta-executor.com/](https://delta-executor.com/)
+
+---
+
+### 🟣 **Fluxus Mobile**
+
+> **Fluxus Mobile** is the mobile version of Fluxus (Android, iOS).  
+> **Official site:** [https://fluxteam.net/](https://fluxteam.net/)
+
+---
+
+### 🟤 **Krnl (Android)**
+
+> **Krnl (Android)** is the mobile version of Krnl.  
+> **Official site:** [https://wearedevs.net/d/Krnl](https://wearedevs.net/d/Krnl)
+
+---
+
+### 🔵 **Hydrogen**
+
+> **Hydrogen** is a popular mobile executor.  
+> **Official site:** [https://hydrogenexecutor.com/](https://hydrogenexecutor.com/)
+
+---
+
+## 📝 Other Notable Executors
+
+---
+
+### 🟢 **Furk Ultra**
+
+> **Furk Ultra** is free, stable, and frequently updated.  
+> **Official site:** [https://furk-ultra.com/](https://furk-ultra.com/)
+
+---
+
+### 🟣 **Valyse**
+
+> **Valyse** is free, stable, and frequently updated.  
+> **Official site:** [https://valyse.com/](https://valyse.com/)
+
+---
+
+### 🟠 **Kiwi X**
+
+> **Kiwi X** is free, stable, and frequently updated.  
+> **Official site:** [https://kiwixexecutor.com/](https://kiwixexecutor.com/)
+
+---
+
+### 🔴 **Blackout**
+
+> **Blackout** is free, stable, and frequently updated.  
+> **Official site:** [https://blackoutexecutor.com/](https://blackoutexecutor.com/)
+
+---
+
+## ⚠️ General Safety Tips
 
 - **Always download executors from their official websites.**
 - **Never share your Roblox password.**
@@ -242,6 +238,8 @@ For more advanced scripts and guides, check out the rest of this repository.
 ---
 
 **References:**  
+- [Swift](https://getswift.gg/)  
+- [Xeno](https://www.xeno.now/download)  
 - [JJSploit](https://wearedevs.net/d/JJSploit)  
 - [Krnl](https://wearedevs.net/d/Krnl)  
 - [Fluxus](https://fluxteam.net/)  
@@ -260,4 +258,5 @@ For more advanced scripts and guides, check out the rest of this repository.
 - [Valyse](https://valyse.com/)  
 - [Kiwi X](https://kiwixexecutor.com/)  
 - [Blackout](https://blackoutexecutor.com/)
+
 
