@@ -1,4 +1,5 @@
-Here’s your **Fun Stuff** guide with a GitHub-compatible Table of Contents and headings—**no emojis or special characters** in the anchors, so all links will work perfectly on GitHub and most markdown viewers!
+Absolutely! Here’s your updated “Fun Stuff” guide with **Section 12: Using Infinite Yield and Dex Explorer** included, and the Table of Contents updated for smooth navigation.  
+You can copy and paste this into your markdown file (e.g., `16-fun-stuff.md`) for GitHub.
 
 ---
 
@@ -23,6 +24,7 @@ Each section is easy to follow and builds on what you’ve learned so far.
 9. [How to Find Remotes SimpleSpy](#9-how-to-find-remotes-simplespy)
 10. [Roblox Terms of Service and Getting Banned](#10-roblox-terms-of-service-and-getting-banned)
 11. [Keep Exploring](#11-keep-exploring)
+12. [Using Infinite Yield and Dex Explorer](#12-using-infinite-yield-and-dex-explorer)
 
 ---
 
@@ -208,7 +210,54 @@ Roblox has rules. Here’s what can get you banned:
 
 ---
 
+## 12. Using Infinite Yield and Dex Explorer
+
+These tools let you explore, control, and learn more about Roblox games in real time.
+
+### Infinite Yield
+
+Infinite Yield is a powerful admin command script. You can use it to teleport, fly, noclip, and much more.
+
+**How to use:**
+1. Copy the official Infinite Yield loadstring below.
+2. Paste it into your executor and run it while in a Roblox game.
+
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+```
+
+- Official download and documentation: [https://infyiff.github.io/Download.html](https://infyiff.github.io/Download.html)
+
+---
+
+### Dex Explorer
+
+Dex Explorer is a GUI that lets you see and interact with all objects in the game, just like Roblox Studio’s Explorer.
+
+**How to use:**
+1. Copy the Dex Explorer loadstring below.
+2. Paste it into your executor and run it in-game.
+
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua'))()
+```
+
+- You can find Dex Explorer scripts on trusted sources like GitHub or v3rmillion. Always use the latest, safe version.
+
+---
+
+**Tip:**  
+You can run Infinite Yield and Dex Explorer together for maximum control and learning!
+
+---
+
+**References:**  
+- [Infinite Yield Official Download](https://infyiff.github.io/Download.html)
+
+---
+
 **Have fun, be creative, and always play fair!**
 
 ---
+
 
