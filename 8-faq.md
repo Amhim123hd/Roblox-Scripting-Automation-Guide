@@ -11,4 +11,8 @@ A: Try the [Roblox Developer Hub](https://create.roblox.com/docs) or [Lua.org](h
 
 ---
 
-There’s even more to explore! Sections 9 to 15 and additional helpful files are available—head back to the README and scroll down to discover the rest of the guide.
+
+
+> There’s even more to explore! Sections 9 to 15 and additional helpful files are available—head back to the [README](README.md) and scroll down to discover the rest of the guide.
+
+
