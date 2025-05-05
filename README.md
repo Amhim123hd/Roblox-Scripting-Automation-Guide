@@ -1,5 +1,4 @@
-Absolutely! Here’s how you can add **16. Fun Stuff: Advanced and Creative Roblox Scripting** to your main `README.md` so it stands out and is easy to find.  
-I’ll use a special highlight and a clear callout to make it pop for readers.
+Here’s how you can add your **Executors Guide** to the main `README.md` so it stands out, with a clear callout and a “scroll down” prompt. This will make it super easy for readers to find and use!
 
 ---
 
@@ -27,6 +26,14 @@ Each topic is in its own file for easy reading.
 15. [Keep Learning](15-keep-learning.md)
 
 ---
+
+---
+
+## 🟢 **Executors Guide: Download & Use Popular Roblox Script Executors** [**(Click Here!)**](executors.md)
+
+> **Want to run scripts?**  
+> Check out the [Executors Guide](executors.md) for step-by-step instructions on Swift, Xeno, JJSploit, Solara, Krnl (Android), and more!  
+> **Scroll down in that file for all the details and official download links.**
 
 ---
 
