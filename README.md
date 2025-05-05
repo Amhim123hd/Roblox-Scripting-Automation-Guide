@@ -1,4 +1,4 @@
-Here’s how you can add your **Executors Guide** to the main `README.md` so it stands out, with a clear callout and a “scroll down” prompt. This will make it super easy for readers to find and use!
+
 
 ---
 
@@ -27,13 +27,19 @@ Each topic is in its own file for easy reading.
 
 ---
 
----
-
 ## 🟢 **Executors Guide: Download & Use Popular Roblox Script Executors** [**(Click Here!)**](executors.md)
 
 > **Want to run scripts?**  
 > Check out the [Executors Guide](executors.md) for step-by-step instructions on Swift, Xeno, JJSploit, Solara, Krnl (Android), and more!  
 > **Scroll down in that file for all the details and official download links.**
+
+---
+
+## 📺 **YouTube Video Resources: Watch & Learn Roblox Scripting** [**(Click Here!)**](youtube-video-resources.md)
+
+> **Need visual help or want to see scripting in action?**  
+> Check out the [YouTube Video Resources](youtube-video-resources.md) file for hand-picked tutorials, playlists, and guides that will help you master Roblox scripting, exploiting, and automation.  
+> **Scroll down in that file for all the best videos and playlists!**
 
 ---
 
