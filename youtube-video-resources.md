@@ -46,7 +46,7 @@ Here are some of the best YouTube videos and playlists to help you learn Roblox 
 ---
 
 ### 10. [Roblox Scripting & Exploiting Video 10](https://youtu.be/j-pXxZhzP00?si=WCkGCWQws-t4dMXp)  
-**🌟 This video is especially important—watch it first!**
+**💡 This video will help on some other things you might need for scripting and exploiting.**
 
 ---
 
